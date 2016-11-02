@@ -1,0 +1,76 @@
+
+.wiki{
+    margin: auto;
+    text-align: center;
+}
+
+.myhead{
+    padding-top: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    height: auto;
+    color: dodgerblue;
+    margin: auto;
+    font-family: monospace cursive;
+}
+.serch{
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    height: auto;
+    color: dodgerblue;
+    margin: auto;
+    font-family: monospace cursive;
+}
+.txtinput{
+    border-radius: 5px;
+    background-color: white;
+}
+.myNew{
+	height: auto;
+	border-radius: 20px;
+}
+.txtinput{
+	height: 35px;
+}
+h2 {
+  color:black;
+  padding-left:1%;
+  padding-top:0.25%;
+  font-family:monospace cursive;
+}
+p {
+  padding-bottom: 0.5%;
+  padding-left:1%;
+  font-size:18px;
+  text-align: left;
+	
+}
+
+#results{
+  border-radius: 30px;
+  width: 80%;
+  margin: auto;
+  margin-top:1%;
+  font-family:monospace cursive;
+}
+
+footer {
+  color: black;
+  line-height: 20px;
+  padding: 10px 0 6px 0;
+  position: relative;
+  text-align: center;
+  font-family: monospace cursive;
+}
+
+@media screen and (max-width: 368px){
+	#btnSearch{
+		padding-top: 10px;
+	}
+}
+
+
+
+
+
